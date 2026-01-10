@@ -1,0 +1,8 @@
+PORT = 
+pguser = postgres
+pghost = localhost
+pgdatabase = progress_tracker
+pgpassword = 
+pgport = 
+
+groq_api_key = 
