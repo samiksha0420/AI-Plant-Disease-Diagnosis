@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌽CROP CARE – A Crop Disease Detection App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT‑blue.svg)](#license)
@@ -70,6 +69,3 @@ This helps farmers understand and manage crop health effectively and sustainably
   - Srushti Ghogare - https://github.com/srushtighogare
   - Tanish Kulkarni - https://github.com/tanishkulkarni
   
-=======
-# CropCare--AI-powered-crop-disease-detection-Monitoring
->>>>>>> a7c05954807db6da394c9bba138915054d9b75ea
